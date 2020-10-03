@@ -152,33 +152,33 @@ function Info() {
       <a
         target="_blank"
         rel="noopener noreferrer"
-        href="https://github.com/webmaeistro">
+        href="https://gatsby-starter-banshorian.vercel.app">
         Martin Andersen
       </a>
-      <div className="notice">(best viewed on desktop WIP making mobile version)</div>
+      <div className="notice">(master is 📦 v0.1.0 via ⬢ v10.19.0)</div>
     </div>
   )
 }
 
 const cards = [
   {
-    title: 'Baws mode⚡️',
+    title: 'Baws mode ⚡️',
     description:
-      'lorem ipsum and some more text',
+      'Get in touch with Martin and have him do some work for you - marander@protonmail.com',
     image: '/undraw_collection.svg',
     imageRatio: 784 / 1016
   },
   {
     title: 'Baby got back 👩‍🎨',
     description:
-      'Built with developers in mind. Change element structure, edit CSS, create components, add props and state. We give you access to the underlying React code so you can do what you need right in our tool.',
+      'Im a leeeean mean supporting machine! Checkout that motion in the background what even is that?! snow?! ash!? omg! ',
     image: '/undraw_upload.svg',
     imageRatio: 839 / 1133
   },
   {
     title: 'Lets fly 🚀',
     description:
-      "Export your project as a high-quality React codebase. We're lazer focused on helping you build and iterate quickly, but expect that you'll eventually want to export and wrap things up in your favorite code editor.",
+      "This is the last card, its nice how it responds wobbles on touch and settles back down.",
     image: '/undraw_static_assets.svg',
     imageRatio: 730 / 1030
   }
