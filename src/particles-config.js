@@ -1,4 +1,3 @@
-// Generate a config at https://vincentgarreau.com/particles.js/
 
 export default {
   particles: {
