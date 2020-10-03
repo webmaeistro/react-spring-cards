@@ -1,7 +1,9 @@
 {
   "name": "wobbly-cards",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "useSpring hook and react-spring library to create high-performance interactive animations.",
+  "license": "MIT",
+  "author": "Martin Andersen <marander@pm.me> (@webmaeistro)",
   "keywords": [
     "hooks",
     "animation",
@@ -9,13 +11,14 @@
     "webmaeistro"
   ],
   "main": "src/index.js",
+  
   "dependencies": {
     "node-sass": "^4.14.1",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "react-particles-js": "3.3.0",
-    "react-scripts": "3.4.3",
-    "react-spring": "8.0.27"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-particles-js": "^3.3.0",
+    "react-scripts": "^3.4.3",
+    "react-spring": "^8.0.27"
   },
   "devDependencies": {},
   "scripts": {

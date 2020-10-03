@@ -155,28 +155,28 @@ function Info() {
         href="https://gatsby-starter-banshorian.vercel.app">
         Martin Andersen
       </a>
-      <div className="notice">(master is 📦 v0.1.0 via ⬢ v10.19.0)</div>
+      <div className="notice" role="img" aria-label="package and node.js logo">(master is 📦 v0.1.0 via ⬢ v10.19.0)</div>
     </div>
   )
 }
 
 const cards = [
   {
-    title: 'Baws mode ⚡️',
+    title: 'Baws mode',
     description:
       'Get in touch with Martin and have him do some work for you - marander@protonmail.com',
     image: '/undraw_collection.svg',
     imageRatio: 784 / 1016
   },
   {
-    title: 'Baby got back 👩‍🎨',
+    title: 'Baby got back',
     description:
       'Im a leeeean mean supporting machine! Checkout that motion in the background what even is that?! snow?! ash!? omg! ',
     image: '/undraw_upload.svg',
     imageRatio: 839 / 1133
   },
   {
-    title: 'Lets fly 🚀',
+    title: 'Lets fly',
     description:
       "This is the last card, its nice how it responds wobbles on touch and settles back down.",
     image: '/undraw_static_assets.svg',
