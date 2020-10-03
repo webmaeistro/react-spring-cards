@@ -1,2 +1,3 @@
-# react-spring-cards
-Created with CodeSandbox
+# react-wobbly-cards
+
+Phancy cards that wobbles when mouse over or touch event

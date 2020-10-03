@@ -148,35 +148,35 @@ function Image({ ratio, src }) {
 function Info() {
   return (
     <div className="info">
-      Springy cards from{' '}
+      Wobbly cards from{' '}
       <a
         target="_blank"
         rel="noopener noreferrer"
         href="https://github.com/webmaeistro">
         Martin Andersen
       </a>
-      <div className="notice">(best viewed at larger screen width)</div>
+      <div className="notice">(best viewed on desktop WIP making mobile version)</div>
     </div>
   )
 }
 
 const cards = [
   {
-    title: 'Build faster ⚡️',
+    title: 'Baws mode⚡️',
     description:
-      'Create a React web app in the fraction of the time using our library of themes and building blocks. We have everything from navbars and content grids to authentication flows and commenting systems. New blocks are added every week.',
+      'lorem ipsum and some more text',
     image: '/undraw_collection.svg',
     imageRatio: 784 / 1016
   },
   {
-    title: 'Tweak anything 👩‍🎨',
+    title: 'Baby got back 👩‍🎨',
     description:
       'Built with developers in mind. Change element structure, edit CSS, create components, add props and state. We give you access to the underlying React code so you can do what you need right in our tool.',
     image: '/undraw_upload.svg',
     imageRatio: 839 / 1133
   },
   {
-    title: 'Export your code 🚀',
+    title: 'Lets fly 🚀',
     description:
       "Export your project as a high-quality React codebase. We're lazer focused on helping you build and iterate quickly, but expect that you'll eventually want to export and wrap things up in your favorite code editor.",
     image: '/undraw_static_assets.svg',
